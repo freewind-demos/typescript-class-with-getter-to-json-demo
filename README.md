@@ -1,5 +1,7 @@
-TypeScript Hello World Demo
+TypeScript Class with Getter to JSON Demo
 ===========================
+
+getter会被忽略
 
 ```
 npm install
